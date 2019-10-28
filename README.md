@@ -37,6 +37,8 @@ Put the password here:
 
 **5b. Select plugins to install**
 
+Click `Select plugins to install`.
+
 ![Select plugins to install](images/select-plugins-to-install.png)
 
 Select the following plugins to install:
@@ -55,7 +57,7 @@ Select the following plugins to install:
 
 **5c. Create first admin user**
 
-Choose a new password and set an email address for your admin user. Click `Save and Continue`.
+Choose a _new password_ and set an _email address_ for your admin user. Click `Save and Continue`.
 
 ![Create first admin user](images/create-first-admin-user.png)
 
