@@ -107,8 +107,20 @@ In the end, your configuration should look like the one below.
 
 You can now `Save` your configuration.
 
+Start your first build by clicking the `Build now` button.
+A new build will be added into your `Build history`.
 
+![Trigger first build](images/create-job/trigger-first-build.png)
 
+As you can see, your build has a red bullet.
+As you can imagine, something went bad with your build.
+
+Let's check what happened by clicking the build number (i.e. `#1`).
+You will be now be displayed the console output of your build.  
+
+The fact that we don't have a Jenkinsfile in our project is the culprit of the build failure.
+
+![Unable to find Jenkinsfile](images/create-job/unable-to-find-jenkinsfile.png)
 
 
 
