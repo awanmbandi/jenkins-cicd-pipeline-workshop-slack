@@ -11,3 +11,5 @@
 * [Configure a pipeline job for a Java-Maven application](https://github.com/valentinabojan/jenkins-pipeline-workshop/wiki/A-pipeline-job-for-your-app)
 
 * [Deploy your application using an interactive step](https://github.com/valentinabojan/jenkins-pipeline-workshop/wiki/Wait-for-interactive-input)
+
+* [Send notifications to Slack](https://github.com/valentinabojan/jenkins-pipeline-workshop/wiki/Send-notifications-to-Slack)
